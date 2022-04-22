@@ -1,0 +1,65 @@
+.nav-mix{
+    display: flex;
+}
+.nav-left{
+    background-color: blue;
+    width: 150px;
+    height: 1000px;
+    text-align: center;
+    
+}
+.logo  {
+    padding: 30px;
+}
+.nav-left a{
+    color: white;
+    font-size: large;
+    padding: 20px;
+}
+
+
+.nav-right{
+    padding: 30px;
+    color: grey;
+}
+.nav-right a{
+    font-size: large;
+    font-weight: bold;
+    margin-top: 20px;
+    padding: 13px;
+    width: 140px;
+}
+
+.list-car{
+    padding-top: 50px;
+}
+.nav-top{
+    background-color: white;
+    
+}
+
+.btn-add{
+    background-color: blue;
+    color: white;
+}
+
+.btn-fams{
+    margin-left: 28px;
+}
+
+.card-cars{
+    display: flex;
+}
+
+.name-src{
+    width: 100vh;
+}
+
+.button-end{
+    gap: 20px;
+    margin-top: 300px;
+}
+.button-end button{
+    width: 100px;
+    gap: 10px;
+}
